@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anterry
-- 👀 I’m interested in learning how to code.
+- 👀 I’m interested in exploring GitHub's capabilities as a new developer.
 
 
 <!---
